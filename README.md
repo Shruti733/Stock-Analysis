@@ -1,2 +1,2 @@
-# Stock-Analysis
+# stocks-analysis
 For VBA exercise
