@@ -36,16 +36,16 @@ Considering the above explanation, following conclusions can be made from the gi
 
 ![Stock_analysis_s](Image_analysis/Stock_analysis_s.png)
 
-**1.** ENPH and RUN seem to be high performing stocks since their total trading volume and return have
+**1.** **ENPH** and **RUN** seem to be high performing stocks since their total trading volume and return have
 increased in both 2017 and 2018. This means more people are buying these stocks which has pushed their
 prices up and generated higher returns.
 
-**2.** DQ, HASI, SEDG, TERP and VSLR seem to be the stocks whose trading volume has increased between 2017-2018
+**2.** **DQ, HASI, SEDG, TERP** and **VSLR** seem to be the stocks whose trading volume has increased between 2017-2018
 but their returns have gone down. This means more people are selling these stocks which has pushed their prices
 down and generated lower returns. However, SEDG stock returns have slightly decreased from 2017. So, it might
 necessitate a deeper analysis.
 
-**3.** AY, CSIQ, FSLR, JKS and SPWR stocks' returns and trading volume have decreased from 2017 to 2018. It seems
+**3.** **AY, CSIQ, FSLR, JKS** and **SPWR** stocks' returns and trading volume have decreased from 2017 to 2018. It seems
 people are holding on to their shares in hand and are hoping to sell them when the stock prices increase.
 The buyers are holding off and expecting the prices to hit a low point. This explains a lower trading volume.
 The prices have gone lower due to lower trading volume. But again, other factors may need to be explored for
