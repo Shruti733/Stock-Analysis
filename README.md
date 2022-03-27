@@ -3,7 +3,7 @@
 ## Overview of Project
 
 In this project, we were working on a Green energy stocks' data-set using VBA (Visual Basics for Application)
-which is a programing language used to interact with Excel spreadsheets. We used VBA to create MACROs to read and
+which is a programming language used to interact with Excel spreadsheets. We used VBA to create MACROs to read and
 write into cells and worksheets, use complex logics to make calculations and to automate report building in order to
 perform analysis in Excel.
 
@@ -11,7 +11,8 @@ perform analysis in Excel.
 
 The main purpose of the project was to study and compare various Green stocks with respect to their performance.
 The analysis can be useful in selecting high performing Green energy stocks, which can be included in the portfolio
-for investment.
+for investment. Furthermore, it was required to refactored the module 2 solution code and analyse and compare the
+execution times before and after refactoring.
 
 ## Analysis
 
@@ -179,6 +180,6 @@ refactored code versus the original code.
 ### Cons
 
 - To refactor the code, we have created tickers array specific to the given data-set, which cannot be applied for
-different set of data. If the same code will be applied on a data set which is not in sorted form and not grouped together,
+different data-set. If the same code will be applied on a data-set which is not in sorted form and not grouped together,
 code cannot be reused as-is.
 
