@@ -123,7 +123,7 @@ in the refactored code as compared to the original module 2 solution code.
 
 ![Memory_analysis](Image_analysis/Memory_analysis.png)
 
-By rectoring the code we have reduced the running time from 1.480 seconds to 0.167 seconds as displayed in the image below: 
+By refactoring the code we have reduced the running time from 1.480 seconds to 0.167 seconds as displayed in the image below: 
 
 ![Tmings](Image_analysis/Tmings.png)
 
