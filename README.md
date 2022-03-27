@@ -81,6 +81,8 @@ Loop through tickers
     Printing output on result worksheet 
 Loop End (for tickers)
 ```
+The nested loop can be seen as below:
+
 ![Nested_loop](Image_analysis/Nested_loop.png)
 
 However, we have used a single loop in the refactored code as follows:
@@ -108,12 +110,12 @@ Loop through tickers
     Printing output on result worksheet
 Loop End (for tickers)
 ```
-![single_loop](Image_analysis/single_loop.png)
-
 By refactoring the code we have converted nested loop into a single loop over the rows of the data worksheet.
 One iteration over the rows is taking less time than multiple iterations as seen in the original module 2 solution code.
-In order to convert nested loop into a single loop we have used arrays to store output values.
+In order to convert nested loop into a single loop we have used arrays to store output values. The refactored code can be seen
+as below:
 
+![single_loop](Image_analysis/single_loop.png)
 
 - Although we have saved time by converting nested loop into a single loop but we are required to make use
 of arrays to store intermediate output values corresponding to each ticker. This means we are using more memory
