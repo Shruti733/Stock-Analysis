@@ -128,7 +128,7 @@ By refactoring the code, we have reduced the running time from 1.480 seconds to 
 
 ![Tmings](Image_analysis/Tmings.png)
 
-## Advantages or disadvantages of refactoring code
+## Advantages and disadvantages of refactoring code
 
 ### Advantages
  - While refactoring the code, we break the original code into separate logical blocks of code which makes it
